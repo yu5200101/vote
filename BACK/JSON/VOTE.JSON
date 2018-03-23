@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "voterId": 186,
+    "participantId": 184,
+    "time": 1506606358575
+  },
+  {
+    "id": 2,
+    "voterId": 186,
+    "participantId": 183,
+    "time": 1506608046597
+  },
+  {
+    "id": 3,
+    "voterId": 185,
+    "participantId": 186,
+    "time": 1506608121923
+  },
+  {
+    "id": 4,
+    "voterId": 184,
+    "participantId": 186,
+    "time": 1506608148671
+  },
+  {
+    "id": 5,
+    "voterId": 186,
+    "participantId": 181,
+    "time": 1506609210421
+  },
+  {
+    "id": 6,
+    "voterId": 186,
+    "participantId": 170,
+    "time": 1508073577413
+  },
+  {
+    "id": 7,
+    "voterId": 186,
+    "participantId": 50,
+    "time": 1513161344208
+  },
+  {
+    "id": 8,
+    "voterId": 186,
+    "participantId": 178,
+    "time": 1513500248231
+  },
+  {
+    "id": 9,
+    "voterId": 186,
+    "participantId": 178,
+    "time": 1513500248249
+  },
+  {
+    "id": 10,
+    "voterId": 186,
+    "participantId": 176,
+    "time": 1513500254714
+  },
+  {
+    "id": 11,
+    "voterId": 186,
+    "participantId": 176,
+    "time": 1513500254725
+  },
+  {
+    "id": 12,
+    "voterId": 186,
+    "participantId": 171,
+    "time": 1513500258737
+  },
+  {
+    "id": 13,
+    "voterId": 186,
+    "participantId": 171,
+    "time": 1513500258745
+  },
+  {
+    "id": 14,
+    "voterId": 186,
+    "participantId": 115,
+    "time": 1513500278788
+  },
+  {
+    "id": 15,
+    "voterId": 186,
+    "participantId": 115,
+    "time": 1513500278800
+  },
+  {
+    "id": 16,
+    "voterId": 186,
+    "participantId": 115,
+    "time": 1513500278816
+  },
+  {
+    "id": 17,
+    "voterId": 186,
+    "participantId": 115,
+    "time": 1513500278825
+  },
+  {
+    "id": 18,
+    "voterId": 186,
+    "participantId": 89,
+    "time": 1513500295186
+  },
+  {
+    "id": 19,
+    "voterId": 186,
+    "participantId": 89,
+    "time": 1513500295194
+  },
+  {
+    "id": 20,
+    "voterId": 186,
+    "participantId": 89,
+    "time": 1513500295210
+  },
+  {
+    "id": 21,
+    "voterId": 186,
+    "participantId": 89,
+    "time": 1513500295225
+  },
+  {
+    "id": 22,
+    "voterId": 186,
+    "participantId": 89,
+    "time": 1513500295244
+  },
+  {
+    "id": 23,
+    "voterId": 186,
+    "participantId": 89,
+    "time": 1513500295303
+  },
+  {
+    "id": 24,
+    "voterId": 186,
+    "participantId": 169,
+    "time": 1513503020630
+  },
+  {
+    "id": 25,
+    "voterId": 189,
+    "participantId": 186,
+    "time": 1517315251739
+  },
+  {
+    "id": 26,
+    "voterId": 183,
+    "participantId": 189,
+    "time": 1517315254333
+  },
+  {
+    "id": 27,
+    "voterId": 189,
+    "participantId": 176,
+    "time": 1517315256580
+  },
+  {
+    "id": 28,
+    "voterId": 189,
+    "participantId": 186,
+    "time": 1517315277506
+  },
+  {
+    "id": 29,
+    "voterId": 189,
+    "participantId": 186,
+    "time": 1517315452213
+  },
+  {
+    "id": 30,
+    "voterId": 189,
+    "participantId": 184,
+    "time": 1517315862853
+  },
+  {
+    "id": 31,
+    "voterId": 189,
+    "participantId": 181,
+    "time": 1517315987737
+  }
+]

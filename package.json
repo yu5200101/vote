@@ -1,0 +1,16 @@
+{
+  "name": "4-VOTE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BackRun.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "less": "^2.7.3"
+  }
+}
